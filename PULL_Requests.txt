@@ -2,3 +2,15 @@ I want to check on mulltiple Pull Requests
 
 
 // Aish changes first time
+
+//Adding changes - Rajasekar
+
+<<<<<<< HEAD
+// Aish changes when Raj is changing now
+=======
+//Commit - change-1 Rajasekar
+>>>>>>> 459de45cc5d3877bfb23bd55c9ed481cc70da1b9
+
+
+
+//ok with both changes//
